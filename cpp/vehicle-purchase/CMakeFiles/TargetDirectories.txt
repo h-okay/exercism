@@ -1,0 +1,4 @@
+/home/hokay/Code/Exercism/cpp/vehicle-purchase/CMakeFiles/vehicle-purchase.dir
+/home/hokay/Code/Exercism/cpp/vehicle-purchase/CMakeFiles/test_vehicle-purchase.dir
+/home/hokay/Code/Exercism/cpp/vehicle-purchase/CMakeFiles/edit_cache.dir
+/home/hokay/Code/Exercism/cpp/vehicle-purchase/CMakeFiles/rebuild_cache.dir

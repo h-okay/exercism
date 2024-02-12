@@ -1,0 +1,4 @@
+/home/hokay/Code/Exercism/cpp/darts/build/CMakeFiles/darts.dir
+/home/hokay/Code/Exercism/cpp/darts/build/CMakeFiles/test_darts.dir
+/home/hokay/Code/Exercism/cpp/darts/build/CMakeFiles/edit_cache.dir
+/home/hokay/Code/Exercism/cpp/darts/build/CMakeFiles/rebuild_cache.dir

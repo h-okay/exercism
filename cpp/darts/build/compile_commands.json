@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/hokay/Code/Exercism/cpp/darts/build",
+  "command": "/usr/bin/g++ -g -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/darts.dir/darts_test.cpp.o -c /home/hokay/Code/Exercism/cpp/darts/darts_test.cpp",
+  "file": "/home/hokay/Code/Exercism/cpp/darts/darts_test.cpp",
+  "output": "CMakeFiles/darts.dir/darts_test.cpp.o"
+},
+{
+  "directory": "/home/hokay/Code/Exercism/cpp/darts/build",
+  "command": "/usr/bin/g++ -g -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/darts.dir/darts.cpp.o -c /home/hokay/Code/Exercism/cpp/darts/darts.cpp",
+  "file": "/home/hokay/Code/Exercism/cpp/darts/darts.cpp",
+  "output": "CMakeFiles/darts.dir/darts.cpp.o"
+},
+{
+  "directory": "/home/hokay/Code/Exercism/cpp/darts/build",
+  "command": "/usr/bin/g++ -g -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/darts.dir/test/tests-main.cpp.o -c /home/hokay/Code/Exercism/cpp/darts/test/tests-main.cpp",
+  "file": "/home/hokay/Code/Exercism/cpp/darts/test/tests-main.cpp",
+  "output": "CMakeFiles/darts.dir/test/tests-main.cpp.o"
+}
+]
