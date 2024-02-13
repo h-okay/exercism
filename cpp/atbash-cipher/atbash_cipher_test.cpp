@@ -10,7 +10,6 @@ TEST_CASE("encode_yes")
     REQUIRE("bvh" == atbash_cipher::encode("yes"));
 }
 
-#if defined(EXERCISM_RUN_ALL_TESTS)
 TEST_CASE("encode_no")
 {
     REQUIRE("ml" == atbash_cipher::encode("no"));
@@ -44,7 +43,7 @@ TEST_CASE("encode_deep_thought")
 TEST_CASE("encode_all_the_letters")
 {
     REQUIRE("gsvjf rxpyi ldmul cqfnk hlevi gsvoz abwlt" ==
-                        atbash_cipher::encode("The quick brown fox jumps over the lazy dog."));
+            atbash_cipher::encode("The quick brown fox jumps over the lazy dog."));
 }
 
 TEST_CASE("decode_exercism")
@@ -55,7 +54,7 @@ TEST_CASE("decode_exercism")
 TEST_CASE("decode_a_sentence")
 {
     REQUIRE("anobstacleisoftenasteppingstone" ==
-                        atbash_cipher::decode("zmlyh gzxov rhlug vmzhg vkkrm thglm v"));
+            atbash_cipher::decode("zmlyh gzxov rhlug vmzhg vkkrm thglm v"));
 }
 
 TEST_CASE("decode_numbers")
@@ -66,6 +65,5 @@ TEST_CASE("decode_numbers")
 TEST_CASE("decode_all_the_letters")
 {
     REQUIRE("thequickbrownfoxjumpsoverthelazydog" ==
-                        atbash_cipher::decode("gsvjf rxpyi ldmul cqfnk hlevi gsvoz abwlt"));
+            atbash_cipher::decode("gsvjf rxpyi ldmul cqfnk hlevi gsvoz abwlt"));
 }
-#endif

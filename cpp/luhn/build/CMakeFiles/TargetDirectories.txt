@@ -1,0 +1,4 @@
+/home/hokay/Code/exercism/cpp/luhn/build/CMakeFiles/luhn.dir
+/home/hokay/Code/exercism/cpp/luhn/build/CMakeFiles/test_luhn.dir
+/home/hokay/Code/exercism/cpp/luhn/build/CMakeFiles/edit_cache.dir
+/home/hokay/Code/exercism/cpp/luhn/build/CMakeFiles/rebuild_cache.dir

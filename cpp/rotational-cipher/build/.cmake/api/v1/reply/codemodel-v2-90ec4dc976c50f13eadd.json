@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "rotational-cipher",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "rotational-cipher::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rotational-cipher-Debug-f4ea1e5b18fed7fce578.json",
+					"name" : "rotational-cipher",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_rotational-cipher::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_rotational-cipher-Debug-370996e3e9f586d18fd6.json",
+					"name" : "test_rotational-cipher",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/hokay/Code/exercism/cpp/rotational-cipher/build",
+		"source" : "/home/hokay/Code/exercism/cpp/rotational-cipher"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
