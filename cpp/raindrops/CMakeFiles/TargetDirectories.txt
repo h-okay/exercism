@@ -1,4 +1,0 @@
-/home/hokay/Code/Exercism/cpp/raindrops/CMakeFiles/raindrops.dir
-/home/hokay/Code/Exercism/cpp/raindrops/CMakeFiles/test_raindrops.dir
-/home/hokay/Code/Exercism/cpp/raindrops/CMakeFiles/edit_cache.dir
-/home/hokay/Code/Exercism/cpp/raindrops/CMakeFiles/rebuild_cache.dir

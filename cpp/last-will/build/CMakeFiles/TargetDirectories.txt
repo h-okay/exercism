@@ -1,4 +1,0 @@
-/home/hokay/Code/Exercism/cpp/last-will/build/CMakeFiles/last-will.dir
-/home/hokay/Code/Exercism/cpp/last-will/build/CMakeFiles/test_last-will.dir
-/home/hokay/Code/Exercism/cpp/last-will/build/CMakeFiles/edit_cache.dir
-/home/hokay/Code/Exercism/cpp/last-will/build/CMakeFiles/rebuild_cache.dir

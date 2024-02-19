@@ -1,4 +1,0 @@
-/home/hokay/Code/Exercism/cpp/lasagna/CMakeFiles/lasagna.dir
-/home/hokay/Code/Exercism/cpp/lasagna/CMakeFiles/test_lasagna.dir
-/home/hokay/Code/Exercism/cpp/lasagna/CMakeFiles/edit_cache.dir
-/home/hokay/Code/Exercism/cpp/lasagna/CMakeFiles/rebuild_cache.dir

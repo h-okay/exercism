@@ -1,4 +1,0 @@
-/home/hokay/Code/exercism/cpp/reverse-string/build/CMakeFiles/reverse-string.dir
-/home/hokay/Code/exercism/cpp/reverse-string/build/CMakeFiles/test_reverse-string.dir
-/home/hokay/Code/exercism/cpp/reverse-string/build/CMakeFiles/edit_cache.dir
-/home/hokay/Code/exercism/cpp/reverse-string/build/CMakeFiles/rebuild_cache.dir

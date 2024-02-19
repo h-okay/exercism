@@ -1,4 +1,0 @@
-/home/hokay/Code/exercism/cpp/trinary/build/CMakeFiles/trinary.dir
-/home/hokay/Code/exercism/cpp/trinary/build/CMakeFiles/test_trinary.dir
-/home/hokay/Code/exercism/cpp/trinary/build/CMakeFiles/edit_cache.dir
-/home/hokay/Code/exercism/cpp/trinary/build/CMakeFiles/rebuild_cache.dir
