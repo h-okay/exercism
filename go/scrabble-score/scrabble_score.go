@@ -27,6 +27,7 @@ func Score(word string) int {
 /*
 n: length of the input word
 m: the number of keys in the SCORES map
-Time Complexity - O(n*m)
+k: length of key in SCORES map assuming string.Contains is O(n)
+Time Complexity - O(n*m*k)
 Space Complexity - O(1)
 */
