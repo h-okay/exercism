@@ -1,6 +1,5 @@
 package lasagna
 
-// TODO: define the 'PreparationTime()' function
 func PreparationTime(layers []string, avgPrepPerLayer int) int {
 	if avgPrepPerLayer == 0 {
 		return len(layers) * 2
@@ -8,7 +7,6 @@ func PreparationTime(layers []string, avgPrepPerLayer int) int {
 	return len(layers) * avgPrepPerLayer
 }
 
-// TODO: define the 'Quantities()' function
 func Quantities(layers []string) (int, float64) {
 	noodles := 0
 	sauces := 0.0
@@ -24,13 +22,11 @@ func Quantities(layers []string) (int, float64) {
 
 }
 
-// TODO: define the 'AddSecretIngredient()' function
 func AddSecretIngredient(friendsList []string, ownRecipe []string) {
 	secret := friendsList[len(friendsList)-1]
 	ownRecipe[len(ownRecipe)-1] = secret
 }
 
-// TODO: define the 'ScaleRecipe()' function
 func ScaleRecipe(amounts []float64, numberOfPortions int) []float64 {
 	scaled := make([]float64, len(amounts))
 	scale := float64(numberOfPortions) / 2.0
