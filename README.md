@@ -2,13 +2,6 @@
 
 This repository contains my solutions to various exercises available at [Exercism](https://exercism.org/). Feel free to explore the solutions and provide feedback or improvements.
 
-## Contents
-
-- [Languages](#languages)
-- [Directory Structure](#directory-structure)
-- [Usage](#usage)
-- [License](#license)
-
 ## Languages
 
 The exercises are implemented in various programming languages, including but not limited to:
