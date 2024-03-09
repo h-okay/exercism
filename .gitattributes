@@ -1,2 +1,2 @@
-cpp/** -linguist-vendored
-go/** -linguist-vendored
+cpp/*/test/* linguist-vendored=false
+go/*/*_test.go linguist-vendored=false
