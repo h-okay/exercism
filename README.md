@@ -8,6 +8,7 @@ The exercises are implemented in various programming languages, including but no
 
 - C++
 - Go
+- Ruby
 
 ## Directory Structure
 
