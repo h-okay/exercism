@@ -2,39 +2,26 @@ package clock
 
 import "fmt"
 
-// Define the Clock type here.
-type Clock struct {
-	hours   int
-	minutes int
-}
+type Clock int
 
 func New(h, m int) Clock {
-	totalMinutes := (h*60 + m) % (24 * 60)
-	if totalMinutes < 0 {
-		totalMinutes += 24 * 60
+	clock := Clock((h*60 + m) % (24 * 60))
+	if clock < 0 {
+		clock += 24 * 60
 	}
-	return Clock{
-		hours:   totalMinutes / 60,
-		minutes: totalMinutes % 60,
-	}
+	return clock
+
 }
 
 func (c Clock) Add(m int) Clock {
-	totalMinutes := (c.hours*60 + c.minutes + m) % (24 * 60)
-	if totalMinutes < 0 {
-		totalMinutes += 24 * 60
-	}
-	return Clock{
-		hours:   totalMinutes / 60,
-		minutes: totalMinutes % 60,
-	}
+	return New(0, int(c)+m)
 }
 
 func (c Clock) Subtract(m int) Clock {
-	return c.Add(-m)
+	return New(0, int(c)-m)
 }
 
 func (c Clock) String() string {
-	return fmt.Sprintf("%02d:%02d", c.hours, c.minutes)
+	return fmt.Sprintf("%02d:%02d", c/60, c%60)
 
 }
